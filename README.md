@@ -1,4 +1,7 @@
-### Hi there 👋
+![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/phalanx/competition/light)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/phalanx/dataset/light)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/phalanx/notebook/light)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/phalanx/discussion/light)
 
 <!--
 **phalanx-hk/phalanx-hk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
