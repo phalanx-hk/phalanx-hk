@@ -4,10 +4,10 @@
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/phalanx/discussion/light)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=phalanx-hk&count_private=true&show_icons=true&theme=gruvbox" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=phalanx-hk&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phalanx-hk&count_private=true&layout=compact&theme=gruvbox" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phalanx-hk" />
 </a>
 
 <!--
