@@ -4,7 +4,7 @@
 
 ### My Social Media 💬
 - Kaggle Profile: [@phalanx](https://www.kaggle.com/phalanx)
-- Twitter: [@ZFPhalanx](https://twitter.com/ZFPhalanx12345)
+- Twitter: [@ZFPhalanx12345](https://twitter.com/ZFPhalanx12345)
 
 <p align="center">
 <a href="https://twitter.com/ZFPhalanx12345" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ZFPhalanx" height="30" width="30" /></a>
